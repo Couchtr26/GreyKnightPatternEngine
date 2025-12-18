@@ -1,5 +1,5 @@
 
-require_relative "pattern_engine"
+require_relative "Pattern_Engine"
 include GreyKnightCore
 
 theme = {
