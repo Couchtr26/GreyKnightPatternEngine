@@ -28,8 +28,9 @@ Features
   - Score saving to JSON
 - Multiple themes possible without changing core logic:
   - Bartender FizzBuzz
-  - Chef’s Tempo
+  - FizzBuzz Kitchen
   - FizzBuzz Climb
+  - FizzBuzz Dive
 - Easily extendable for new reflex or rhythm-based games
 
 ---
@@ -41,5 +42,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/Couchtr26/GreyKnightPatternEngine.git
 cd GreyKnightPatternEngine
+
+Run theme
+
+ruby Dive_loader.rb
+ruby Climb_loader.rb
 
 
